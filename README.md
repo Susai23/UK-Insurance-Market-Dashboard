@@ -36,4 +36,4 @@ Power BI Desktop | Power Query | DAX
 - Resolved many-to-many relationship issues via Power Query merge strategy
 
 ## View the Dashboard
-[Live Power BI link](your-link-here) | [PDF Export](link-to-pdf-in-repo)
+[Live Power BI link](your-link-here) | [PDF Export](link-to-pdf-in-repohttps://github.com/Susai23/UK-Insurance-Market-Dashboard/blob/main/UK_Insurance_Market_Dashboard.pdf)
