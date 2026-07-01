@@ -45,3 +45,7 @@ Power BI Desktop | Power Query | DAX
 
 ## View the Dashboard
 [Download .pbix](https://github.com/Susai23/UK-Insurance-Market-Dashboard/raw/main/UK_Insurance_Market_Dashboard.pbix) | [View PDF](https://github.com/Susai23/UK-Insurance-Market-Dashboard/blob/main/UK_Insurance_Market_Dashboard.pdf)
+
+## About
+Built by **Susairaj Anthony** — Data Analyst with 6+ years in the insurance and finance sectors, specializing in Power BI, DAX, SQL, and Python.
+[LinkedIn](https://www.linkedin.com/in/susairaj-anthony-692382169/) | [GitHub](https://github.com/Susai23)
