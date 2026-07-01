@@ -25,6 +25,13 @@ publicly available datasets from the FCA, ONS, and Kaggle.
 - Office for National Statistics (ONS) — CPIH Insurance Index
 - Kaggle — Insurance Claims Dataset
 
+## Raw Data
+The source datasets used to build the dashboard are available in [`data/`](data):
+- `CPIH_INDEX_Insurance.xlsx` — ONS CPIH insurance price index
+- `FCA_General_Insurance_Value_Measures_2024.xlsx` — FCA value measures by product
+- `Firm_Level_Complaints_Data_2025H1.xlsx` / `Firm_Level_Complaints_Data_2025H2.xlsx` — FCA firm-level complaints data
+- `Insurance_Claims_Data.xlsx` — Kaggle motor insurance claims dataset
+
 ## Tools
 Power BI Desktop | Power Query | DAX
 
